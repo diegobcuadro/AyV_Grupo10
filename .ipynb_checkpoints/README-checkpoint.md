@@ -1,5 +1,5 @@
 # AyV_Grupo10
-Repositorio para el práctico de Analisis y Visualización de Datos
+Repositorio para el práctico de Analisis y Visualisación de Datos
 ## Integrantes:
  * Julieta Pacharoni
  * Lucas Lascano

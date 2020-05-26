@@ -6,6 +6,6 @@ Repositorio para el práctico de Analisis y Visualización de Datos
  * Manuela Lois
  * Francisco Gil
  * Diego Gonzalez 
- * Matías BM.
+ * Matías Bettera Marcat.
 
 

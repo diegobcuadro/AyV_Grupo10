@@ -15,11 +15,7 @@ pandas==1.0.4
 seaborn==0.10.1  
 scipy==1.4.1
 
-## Parte 1 
-En la siguiente Notebook se encuentra el desarrollo de la primera parte del práctico:
- [Parte 1](AyV_Grupo10/practico.ipnb)
+## Práctico 
+En la siguiente Notebook se encuentra el desarrollo del práctico:
+ [Práctico](AyV_Grupo10/practico.ipnb)
 
-
-## Parte 2 
-En la siguiente Notebook se encuentra el desarrollo de la segunda parte del práctico:
-[Parte 2](AyV_Grupo10/practico.ipnb)

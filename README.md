@@ -1,5 +1,5 @@
-# Repositorio del Grupo #10 de Analisis y Visualización de Datos 2020
-Repositorio para el desarrollo del práctico de la materia Analisis y Visualización de Datos
+# Repositorio del Grupo #10 de Análisis y Visualización de Datos 2020
+Repositorio para el desarrollo del práctico de la materia Análisis y Visualización de Datos
 ## Integrantes:
  * Julieta Pacharoni
  * Lucas Lascano
@@ -7,6 +7,13 @@ Repositorio para el desarrollo del práctico de la materia Analisis y Visualizac
  * Francisco Gil
  * Diego Gonzalez 
  * Matías Bettera Marcat.
+
+## Librerías requeridas:
+matplotlib==3.2.1
+numpy==1.18.5
+pandas==1.0.4
+seaborn==0.10.1
+scipy==1.4.1
 
 ## Parte 1 
 En la siguiente Notebook se encuentra el desarrollo de la primera parte del práctico:

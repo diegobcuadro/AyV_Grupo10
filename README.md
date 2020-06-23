@@ -17,5 +17,5 @@ scipy==1.4.1
 
 ## Práctico 
 En la siguiente Notebook se encuentra el desarrollo del práctico:
- [Práctico](AyV_Grupo10/practico.ipnb)
+ [Práctico](AyV_Grupo10/practico.ipynb)
 
